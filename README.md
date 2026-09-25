@@ -3,4 +3,4 @@ CS student @ <a href="https://www.uminho.pt/"><img src="https://tse4.mm.bing.net
 
 # Coding Languages I use
 
-<a href= "https://www.haskell.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/960px-Haskell-Logo.svg.png" alt="Haskell Language" width="50" height="50"></a><a href= "https://www.c-language.org/"> <img src="https://th.bing.com/th/id/R.fb02bc9126de8023fb91d13c8558d109?rik=Q0%2b4TeyNXNtnTA&pid=ImgRaw&r=0" alt="C-Logo" width="50" height="50"></a>
+<a href= "https://www.haskell.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/960px-Haskell-Logo.svg.png" alt="Haskell Language" width="50" height="50"></a><a href= "https://www.c-language.org/"> <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="C-Logo" width="50" height="50"></a>
