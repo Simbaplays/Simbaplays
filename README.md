@@ -8,7 +8,7 @@ CS student @ <a href="https://www.uminho.pt/"><sub style="vertical-align: sub;">
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="C#-logo" width="50" height="50"></a>
 <a href="https://luau.org/"><img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" alt="luau-logo" width="50" height="50"></a>
 
-# Projects I May Finish (one day):pray:
+# Projects I May Finish (one day) :pray:
 [**TurnBased RogueLike**](https://github.com/Simbaplays/TBRLT)
 
 # Projects I Contributed :angel:
