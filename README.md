@@ -1,6 +1,8 @@
 # About Me
 CS student @ <a href="https://www.uminho.pt/"><sub style="vertical-align: sub;"><img src="https://tse4.mm.bing.net/th/id/OIP.9jQynY1YwKx22ZnjQ6wa2QHaHV?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="uminho logo" width="25" height="25"></sub></a>
 
+Currently focused on learning new languages and frameworks
+
 # Coding Languages I Use :alien:
 
 <a href= "https://www.haskell.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/960px-Haskell-Logo.svg.png" alt="Haskell Language" width="50" height="50"></a>
@@ -12,7 +14,7 @@ CS student @ <a href="https://www.uminho.pt/"><sub style="vertical-align: sub;">
 [**TurnBased RogueLike**](https://github.com/Simbaplays/TBRLT)
 
 # Projects I Contributed :angel:
-[**Simple Simon C**](https://github.com/besukes/Simple-Simon-C)
+<a href="https://github.com/besukes/Simple-Simon-C"><img src="https://github.com/besukes/Simple-Simon-C/blob/main/assets/Logo.png?raw=true" alt="SSCLOGO" width="50" height="50"></a>[**Simple Simon C**](https://github.com/besukes/Simple-Simon-C)
 
 A Solitaire Variant made with C and usage of SDL2 for graphics and mixers(very fun to make)
 
