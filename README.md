@@ -1,5 +1,5 @@
 # About Me
-CS student @ <a href="https://www.uminho.pt/"><img src="https://tse4.mm.bing.net/th/id/OIP.9jQynY1YwKx22ZnjQ6wa2QHaHV?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" style="margin-top: 5px;" alt="uminho logo" width="25" height="25"></a>
+CS student @ <a href="https://www.uminho.pt/"><img src="https://tse4.mm.bing.net/th/id/OIP.9jQynY1YwKx22ZnjQ6wa2QHaHV?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" style="margin-top: 50px;" alt="uminho logo" width="25" height="25"></a>
 
 # Coding Languages I Use :alien:
 
