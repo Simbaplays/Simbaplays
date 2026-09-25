@@ -13,8 +13,10 @@ CS student @ <a href="https://www.uminho.pt/"><sub style="vertical-align: sub;">
 
 # Projects I Contributed :angel:
 [**Simple Simon C**](https://github.com/besukes/Simple-Simon-C)
+
 A Solitaire Variant made with C and usage of SDL2 for graphics and mixers(very fun to make)
 
 [**LI2 Card Game Engine**](https://github.com/besukes/LI2GameEngine)
+
 A Card Game Engine made with C (not so fun to make)
 
