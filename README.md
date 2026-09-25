@@ -14,7 +14,7 @@ Currently focused on learning new languages and frameworks
 [**TurnBased RogueLike**](https://github.com/Simbaplays/TBRLT)
 
 # Projects I Contributed :angel:
-<a href="https://github.com/besukes/Simple-Simon-C"><sub style="vertical-align: sub;"><img src="https://github.com/besukes/Simple-Simon-C/blob/main/assets/Logo.png?raw=true" alt="SSCLOGO" width="50" height="50"></sub></a>[**Simple Simon C**](https://github.com/besukes/Simple-Simon-C)
+<a href="https://github.com/besukes/Simple-Simon-C"><sub style="vertical-align: sub;"><img src="https://github.com/besukes/Simple-Simon-C/blob/main/assets/Logo.png?raw=true" alt="SSCLOGO" width="100" height="100"></sub></a>[**Simple Simon C**](https://github.com/besukes/Simple-Simon-C)
 
 A Solitaire Variant made with C and usage of SDL2 for graphics and mixers(very fun to make)
 
